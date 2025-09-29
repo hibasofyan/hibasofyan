@@ -3,6 +3,7 @@
 **AI student • Curious mind**
 
 I’m chasing the frontiers of intelligence.
+
 Can AI truly understand, learn, and reason like humans, or is it only an illusion of thinking?
 
 ## What I'm Exploring
@@ -10,12 +11,9 @@ Can AI truly understand, learn, and reason like humans, or is it only an illusio
 - Reading more AI papers than is probably healthy
 - Opening the black box of AI systems to understand their decision-making
   
-## My path through AI 
-```
-CV → NLP → RL & decision-making → Interpretable AI
 
-```
-Each step opened new doors, leading me to my true passion: discovering *elegant structures* within complex architectures; building intelligence that is *explainable* and *safe*.
+
+*Discovering **elegant structures** within complex architectures; building intelligence that is **explainable** and **safe**.*
 
 ---
 
