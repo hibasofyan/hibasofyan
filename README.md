@@ -2,21 +2,20 @@
 
 **AI student • Curious mind**
 
-I’m chasing the frontiers of intelligence — from neural networks to agents that reason.  
-There’s beauty in machines that solve math like humans do.  
-And **AI4Math**? That’s where the magic happens.
+I’m chasing the frontiers of intelligence.
+Can AI truly understand, learn, and reason like humans, or is it only an illusion of thinking?
 
 ## What I'm Exploring
 - Research that bridges theory and practice (because discovery lights me up)
 - Reading more AI papers than is probably healthy
-- How **reinforcement learning** can tackle math problem
+- Opening the black box of AI systems to understand their decision-making
   
 ## My path through AI 
 ```
-Computer Vision → NLP → Agentic AI → Reinforcement Learning → AI4Math
+CV → NLP → RL & decision-making → Interpretable AI
+
 ```
-Each step opened new doors. But at the intersection of **mathematics and intelligence**,  
-I found what I truly love: elegant logic, messy data, and models trying to reason.
+Each step opened new doors, leading me to my true passion: discovering *elegant structures* within complex architectures; building intelligence that is *explainable* and *safe*.
 
 ---
 
