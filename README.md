@@ -24,5 +24,5 @@ And the big one: How do we build this... without also building the perfect manip
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hibasofyan)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:hibasofyan3@gmail.com)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-darkgreen?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/hibasofyan)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-darkgreen?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Hiba-Sofyan?ev=hdr_xprf)
 [![Hugging Face](https://img.shields.io/badge/-🤗%20Hugging%20Face-yellow?style=flat&logo=HuggingFace&logoColor=black)](https://huggingface.co/hibasofyan)
